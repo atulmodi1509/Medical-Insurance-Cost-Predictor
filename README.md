@@ -29,6 +29,11 @@ Medical_Insurance_Cost_Prediction/
 
 ---
 
+## Preview
+
+<img width="914" height="856" alt="Screenshot 2025-07-14 195603" src="https://github.com/user-attachments/assets/9f2485a0-3484-40b7-80cd-cc0351ecdf96" />
+
+
 ## ⚙️ How to Run
 
 ### 1. Clone the repository
